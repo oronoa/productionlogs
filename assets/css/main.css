@@ -7,6 +7,11 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+.logo {
+	vertical-align: top;
+	padding:60px;
+	width:200px;
+}
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -215,7 +220,7 @@ input, select, textarea {
 
 	h1 {
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 5rem;
+		font-size: 4rem;
 		font-weight: 700;
 		letter-spacing: -0.05em;
 		line-height: 1.1;
@@ -3418,6 +3423,10 @@ input, select, textarea {
 		#wrapper > section.intro > header > * {
 			width: 20rem;
 		}
+		
+		#wrapper > section.intro > header > h1 {
+			width: 30rem;
+		}
 
 		#wrapper > section.intro > header:before {
 			margin-left: calc(50vw - 10rem);
@@ -3864,7 +3873,3 @@ input, select, textarea {
 
 	}
 
-.logo {
-	vertical-align: top;
-	padding:60px;
-}
