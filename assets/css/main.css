@@ -220,7 +220,7 @@ input, select, textarea {
 
 	h1 {
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 4rem;
+		font-size: 3rem;
 		font-weight: 700;
 		letter-spacing: -0.05em;
 		line-height: 1.1;
@@ -253,7 +253,7 @@ input, select, textarea {
 	@media screen and (max-width: 736px) {
 
 		h1 {
-			font-size: 4.5rem;
+			font-size: 3.5rem;
 			line-height: 1.1;
 		}
 
@@ -3425,7 +3425,7 @@ input, select, textarea {
 		}
 		
 		#wrapper > section.intro > header > h1 {
-			width: 30rem;
+			width: 20rem;
 		}
 
 		#wrapper > section.intro > header:before {
